@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+seatgeek.com	TRUE	/	FALSE	1999999999	sg_session	5b420458415d83d0eea458a80be24612
+seatgeek.com	TRUE	/	FALSE	1999999999	sixpack_client_id	0e800b97-824e-4188-ac27-80e58f152a4f
+seatgeek.com	TRUE	/	FALSE	1999999999	PHPSESSID	4b2fbc1a7a589fadd5ff560df59f145e
+commons.wikimedia.org	TRUE	/	FALSE	1999999999	WMF-Last-Access	15-May-2021
+.wikimedia.org	TRUE	/	FALSE	1999999999	GeoIP	PK:SD:Karachi:24.92:67.07:v4
+seatgeek.com	TRUE	/	FALSE	1999999999	sg_uuid	b42a9d06-3f9f-73e4-f5a7-a5d090d790c4
+seatgeek.com	TRUE	/	FALSE	1999999999	sg_sess	134b376db40d75635307456dfe209081439cbebaattributes%7Ca%3A3%3A%7Bs%3A10%3A%22attributes%22%3Ba%3A2%3A%7Bs%3A17%3A%22entranceSignature%22%3Bs%3A24%3A%22category%3Aentrance%3Adirect%22%3Bs%3A12%3A%22entrancePath%22%3Bs%3A1%3A%22%2F%22%3B%7Ds%3A5%3A%22flash%22%3Ba%3A0%3A%7B%7Ds%3A12%3A%22flash%2Fremove%22%3Ba%3A0%3A%7B%7D%7Dculture%7Cs%3A2%3A%22en%22%3B
+seatgeek.com	TRUE	/	FALSE	1999999999	_pxhd	83b4bb4569b8279bdfdb53bad12cba4508892fd7ea3272f70d42f0c934f15d28:3852c541-b5c7-11eb-8ed2-8b39e3a2275b
+
